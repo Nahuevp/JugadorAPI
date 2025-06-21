@@ -41,8 +41,3 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 > Ideal para practicar arquitectura limpia, controladores REST y estructura de APIs en .NET.
 
 ---
-
-##  Autor
-
-**Nahuel Viera**  
-[GitHub](https://github.com/Nahuevp)
