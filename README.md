@@ -5,7 +5,7 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - .NET 8
 - ASP.NET Core
@@ -14,7 +14,7 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Listar todos los jugadores
 - Consultar un jugador por ID
@@ -25,7 +25,7 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 - `/Controllers` – Lógica de rutas y endpoints (`Jugador`, `Habilidad`)
 - `/Models` – Clases de datos (`Jugador`, `Habilidad`, `JugadorInsert`)
@@ -35,14 +35,14 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 
 ---
 
-## 💡 Notas
+##  Notas
 
 > Este proyecto utiliza almacenamiento en memoria y no requiere base de datos.  
 > Ideal para practicar arquitectura limpia, controladores REST y estructura de APIs en .NET.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Nahuel Viera**  
 [GitHub](https://github.com/Nahuevp)
