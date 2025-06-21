@@ -10,7 +10,7 @@ Este proyecto fue creado con fines educativos como parte de mi práctica con el 
 - .NET 8
 - ASP.NET Core
 - C#
-- Swagger / OpenAPI
+- Swagger
 
 ---
 
